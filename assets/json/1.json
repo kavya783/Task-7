@@ -1,0 +1,185 @@
+[
+  {
+
+    "product_name": "Product A",
+    "img": "https://i.pinimg.com/564x/47/df/b8/47dfb824a08ce64cdcdac25ab01e1e37.jpg",
+    "name":"Computer",
+    "cost": 500,
+    "rating": 5,
+    "discount": 10,
+    "buttonType":"Available",
+    "buttonColor":"Green"
+  },
+  {
+    "product_name": "Product B",
+    "img": "https://tse1.mm.bing.net/th/id/OIP.XYAN281qy0ja7XvNniLUHwHaHa?pid=Api&P=0&h=180",
+    "name":"Smart Watch",
+    "cost": 1000,
+    "rating": 4.0,
+    "discount": 20,
+      "buttonType":"Available",
+       "buttonColor":"Green"
+  },
+  {
+    "product_name": "Product C",
+    "img": "https://rukminim2.flixcart.com/image/300/300/xif0q/xif0q/watch/h/5/e/1-2634wm05-titan-women-bg-enhanced-original-gen-3-27fdbbebc85d0a837c5977656714ff21-imagpygkwvzfugzh.jpeg?q=90",
+    "name":" Watch",
+    "cost": 200,
+    "rating":4.0,
+    "discount": 10,
+     "buttonType":"Available",
+      "buttonColor":"Green"
+  },
+   {
+    "product_name": "Product D",
+    "img": "https://i.pinimg.com/736x/2b/8a/b2/2b8ab22fcc4b73cc7f198fa6a7b25fad.jpg",
+    "name":"Computer",
+    "cost": 1000,
+    "rating": 4.0,
+    "discount": 40,
+     "buttonType":"Available",
+      "buttonColor":"Green"
+  },
+   {
+    "product_name": "Product E",
+    "img": "https://i.pinimg.com/736x/ef/8c/da/ef8cda91db80e2741b59ede6f856d461.jpg",
+    "name":"Teddy Bear",
+    "cost": 500,
+    "rating": 3.0,
+    "discount": 15,
+     "buttonType":"Available",
+      "buttonColor":"Green"
+  },
+  {
+    "product_name": "Product F",
+    "img": "https://m.media-amazon.com/images/I/61QO4GFiMCL._AC_UF1000,1000_QL80_.jpg",
+    "name":"Computer",
+    "cost": 3000,
+    "rating": 3.0,
+    "discount": 15,
+     "buttonType":"Available",
+      "buttonColor":"Green"
+  },
+   {
+    "product_name": "Product G",
+    "img": "https://m.media-amazon.com/images/I/61kReoWGtHL.jpg",
+    "name":"Ear Buds",
+    "cost": 1000,
+    "rating": 4,
+    "discount": 18,
+      "buttonType":"Upcoming",
+       "buttonColor":"Blue"
+    
+    }, {
+    "product_name": "Product H",
+    "img": "https://m.media-amazon.com/images/I/81jHhWCWylL._UL1500_.jpg",
+    "name":"Bag",
+    "cost": 3000,
+    "rating": 2.0,
+    "discount": 15,
+     "buttonType":"Upcoming",
+      "buttonColor":"Blue"
+  },
+   {
+    "product_name": "Product I",
+    "img": "https://wallpapercave.com/wp/wp3872191.jpg",
+    "name":"Bangles",
+    "cost": 100,
+    "rating": 0.0,
+    "discount": 15,
+      "buttonType":"Upcoming",
+       "buttonColor":"Blue"
+  },
+   {
+    "product_name": "Product J",
+    "img": "https://www.sportsdirect.com/images/imgzoom/02/02707406_xxl_a2.jpg",
+    "name":"Shoe",
+    "cost": 700,
+    "rating": 3.0,
+    "discount": 10,
+      "buttonType":"Upcoming",
+       "buttonColor":"Blue"
+  },
+   {
+    "product_name": "Product K",
+    "img": "https://tse2.mm.bing.net/th/id/OIP.epaSpmw7If2g0F98uAoAogHaHa?pid=Api&P=0&h=180",
+    "name":"Braclet",
+    "cost": 100,
+    "rating": 4.0,
+    "discount": 5,
+      "buttonType":"Upcoming",
+       "buttonColor":"Blue"
+  },
+   {
+    "product_name": "Product L",
+    "img": "https://m.media-amazon.com/images/I/61QO4GFiMCL._AC_UF1000,1000_QL80_.jpg",
+    "name":"computer",
+    "cost": 4500,
+    "rating": 5.0,
+    "discount": 15,
+     "buttonType":"Upcoming",
+      "buttonColor":"Blue"
+  },
+   {
+    "product_name": "Product M",
+    "img": "https://m.media-amazon.com/images/I/613T-IFleVL._UL1500_.jpg",
+    "name":"Ring",
+    "cost": 599,
+    "rating": 5,
+    "discount": 35,
+     "buttonType":"Missing",
+      "buttonColor":"Red"
+  },
+   {
+    "product_name": "Product N",
+    "img": "https://www.fashioncrab.com/wp-content/uploads/2023/02/Big-Blue-Traditional-Jhumka-Earrings-for-Girls.jpg",
+    "name":"Ear Rings",
+    "cost": 100,
+    "rating": 4,
+    "discount": 10,
+      "buttonType":"Missing",
+      "buttonColor":"Red"
+  }, 
+  {
+    "product_name": "Product O",
+    "img": "https://www.bhphotovideo.com/images/images2500x2500/sony_mdrzx330bt_b_on_ear_bluetooth_headphones_1126537.jpg",
+    "name":"Bluetooth",
+    "cost": 1050,
+    "rating": 4.0,
+    "discount": 15,
+      "buttonType":"Missing",
+      "buttonColor":"Red"
+  }, 
+  {
+    "product_name": "Product P",
+    "img": "https://m.media-amazon.com/images/I/61QO4GFiMCL._AC_UF1000,1000_QL80_.jpg",
+    "name":"Computer",
+    "cost": 5500,
+    "rating": 3.0,
+    "discount": 25,
+      "buttonType":"Missing",
+      "buttonColor":"Red"
+  },
+   {
+    "product_name": "Product Q",
+    "img": "https://tse3.mm.bing.net/th/id/OIP.Rc-cVC-Xroe86FlB4P8J7AHaHb?pid=Api&P=0&h=180",
+    "name":"Volleyball",
+    "cost": 800,
+    "rating": 2,
+    "discount": 55,
+     "buttonType":"Missing",
+     "buttonColor":"Red"
+  },
+   {
+    "product_name": "Product R",
+    "img": "https://i.pinimg.com/564x/47/df/b8/47dfb824a08ce64cdcdac25ab01e1e37.jpg",
+    "name":"Computer",
+    "cost": 800,
+    "rating": 2,
+    "discount": 55,
+     "buttonType":"Missing",
+     "buttonColor":"Red"
+  }
+]
+
+ 

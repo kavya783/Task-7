@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Product Cards</title>
+
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="./assets/css/style.css">
+
+  </head>
+
+<body class="bg-light" onload="myFunction('Available')">
+
+  <div class="container py-3 ">
+    <h4 class="text-left text-bg-warning mb-3 mt-3 ps-3 pe-5 pt-2 pb-2">
+      Super Value Deals
+    </h4>
+
+   <div class="btn-radio  mt-3" role="radio">
+      <input type="radio" class="btn-check" name="btnradio" id="available" checked>
+      <label class="btn btn-outline-success btn-bg-success btn-sm " for="available" onclick="myFunction('Available')">Available</label>
+
+      <input type="radio" class="btn-check" name="btnradio" id="upcoming">
+      <label class="btn btn-outline-primary btn-sm " for="upcoming" onclick="myFunction('Upcoming')">Upcoming</label>
+
+      <input type="radio" class="btn-check" name="btnradio" id="missing">
+      <label class="btn btn-outline-danger btn-sm " for="missing" onclick="myFunction('Missing')">Missing</label>
+    </div>
+
+
+    <div class="swiper mySwiper">
+      <div class="swiper-wrapper" id="product-container"></div>
+
+      <div class="swiper-button-next text-dark"></div>
+      <div class="swiper-button-prev text-dark"></div>
+      <div class="swiper-pagination"></div>
+    </div>
+  </div>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  <script src="./assets/javascript/script.js"></script>
+
+</body>
+
+</html>
